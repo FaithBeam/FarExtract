@@ -2,6 +2,10 @@
 
 A simple program to extract .far files.
 
+## Requirements
+
+.NET Framework 4.8
+
 ## Usage
 
 1. Download the latest release
