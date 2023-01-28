@@ -1,6 +1,6 @@
 ﻿# FarExtract
 
-A simple program to extract .far files.
+A simple program to extract The Sims 1 .far files.
 
 ## Requirements
 
