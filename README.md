@@ -1,5 +1,7 @@
 ﻿# FarExtract
 
+Look at [FarEdit](https://github.com/FaithBeam/FarEdit) for a GUI alternative to this.
+
 A simple program to extract The Sims 1 .far files.
 
 ## Requirements
